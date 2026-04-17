@@ -1,4 +1,4 @@
 {
-  "payload": "{\"blocked_install_ids\":[],\"enabled\":true,\"kill_all\":true,\"message\":\"Temporarily disabled by administrator.\",\"min_version\":\"0.1.8\"}",
+  "payload": "{\"blocked_install_ids\":[],\"enabled\":false,\"kill_all\":true,\"message\":\"Temporarily disabled by administrator.\",\"min_version\":\"0.1.8\"}",
   "signature": "aUEXzepEdfCKQ3SY95IeQ3W1PSEwTbQbiKjqruswo4QgFvru9UF3qEtYX/rUaF6IX/lgJ3d0PxxQMNRaEFRhBA=="
 }
