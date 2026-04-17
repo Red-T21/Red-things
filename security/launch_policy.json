@@ -1,4 +1,4 @@
 {
-  "allow_launch": false,
+  "allow_launch": True,
   "message": "App is working normally"
 }
